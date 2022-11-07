@@ -25,4 +25,28 @@ TR: Burada projelerimi ve canlı demolarını bulabilirsiniz. Bu readme dosyası
 
 ## The Movie Database API Application
 [Project Repository](https://github.com/kerimkaraman/The-Movie-Database-API-Application) - 
-[Live Demo](https://github.com/kerimkaraman/The-Movie-Database-API-Application)
+[Live Demo](https://themoviedatabase-kerimkaraman.netlify.app)
+
+## NFT Landing Page
+[Project Repository](https://github.com/kerimkaraman/frontendmentor.io-projects/tree/main/nft-preview-card-component-main) - 
+[Live Demo](https://nft-landing-kerimkaraman.netlify.app)
+
+## Fashion Landing Page
+[Project Repository](https://github.com/kerimkaraman/frontendmentor.io-projects/tree/main/winter-landing-page) - 
+[Live Demo](https://fashion-landing-kerimkaraman.netlify.app)
+
+## News Landing Page
+[Project Repository](https://github.com/kerimkaraman/frontendmentor.io-projects/tree/main/news-homepage-main) - 
+[Live Demo](https://news-landing-kerimkaraman.netlify.app)
+
+## Fylo Landing Page
+[Project Repository](https://github.com/kerimkaraman/frontendmentor.io-projects/tree/main/fylo-landing-page-with-two-column-layout-master) - 
+[Live Demo](https://fylo-landing-kerimkaraman.netlify.app)
+
+## News Landing Page
+[Project Repository](https://github.com/kerimkaraman/frontendmentor.io-projects/tree/main/clipboard-landing-page-master) - 
+[Live Demo](https://clipboard-landing-kerimkaraman.netlify.app)
+
+## Yogo Landing Page
+[Project Repository](https://github.com/kerimkaraman/yogo-landing-page) - 
+[Live Demo](https://yogo-landing-page-kerimkaraman.netlify.app)
