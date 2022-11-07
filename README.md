@@ -43,7 +43,7 @@ TR: Burada projelerimi ve canlı demolarını bulabilirsiniz. Bu readme dosyası
 [Project Repository](https://github.com/kerimkaraman/frontendmentor.io-projects/tree/main/fylo-landing-page-with-two-column-layout-master) - 
 [Live Demo](https://fylo-landing-kerimkaraman.netlify.app)
 
-## News Landing Page
+## Clipboard Landing Page
 [Project Repository](https://github.com/kerimkaraman/frontendmentor.io-projects/tree/main/clipboard-landing-page-master) - 
 [Live Demo](https://clipboard-landing-kerimkaraman.netlify.app)
 
