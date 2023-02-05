@@ -54,3 +54,7 @@ TR: Burada projelerimi ve canlı demolarını bulabilirsiniz. Bu readme dosyası
 ## Portfolio
 [Project Repository](https://github.com/kerimkaraman/portfolio) - 
 [Live Demo](https://kerimkaraman-portfolio.netlify.app/)
+
+## Movie App v2 (Full Responsive)
+[Project Repository](https://github.com/kerimkaraman/movie-appv2) - 
+[Live Demo](https://astounding-youtiao-7272d7.netlify.app/)
